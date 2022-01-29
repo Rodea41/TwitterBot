@@ -30,7 +30,7 @@ user = api.me()
 #print(user.name)
 ######################################
 
-"""
+"""(OPTIONAL)
 #####################################################################
 Loop through everyone you are following and follow them back
 
@@ -89,7 +89,7 @@ def getE7():
     return E7.get()
 
 
-"""
+"""(OPTIONAL)
 #######################################################################
 #Setting up Search and respond function
 def SearchFunction(keyword, numberOfTweet):
